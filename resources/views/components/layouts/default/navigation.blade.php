@@ -24,7 +24,7 @@
                 <a href="/faq" class="transition-colors cursor-pointer hover:text-app-white">
                     Fragen
                 </a>
-                <a href="#use" class="transition-colors cursor-pointer hover:text-app-white">
+                <a href="/" class="transition-colors cursor-pointer hover:text-app-white">
                     Kontakt
                 </a>
                 <a href="/" class="transition-colors cursor-pointer hover:text-app-white">Anmelden</a>
@@ -34,15 +34,15 @@
                 x-show="open">
                 <div class="fixed top-0 left-0 w-screen h-screen bg-app-black -z-10"></div>
                 <p class="block w-full text-sm font-bold">MENÜ</p>
-                <a href="#use" x-on:click="open = false"
+                <a href="/#use" x-on:click="open = false"
                     class="px-4 py-2 transition-colors rounded-lg cursor-pointer text-app-white/90 bg-app-red">
                     Wie funktioniert's?
                 </a>
-                <a href="#use"
+                <a href="/faq"
                     class="px-4 py-2 transition-colors rounded-lg cursor-pointer text-app-white/90 bg-app-red">
                     Fragen
                 </a>
-                <a href="#use"
+                <a href="/"
                     class="px-4 py-2 transition-colors rounded-lg cursor-pointer text-app-white/90 bg-app-red">
                     Kontakt
                 </a>
