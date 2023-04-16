@@ -11,7 +11,7 @@
             </div>
 
             <div class="col-span-4">
-                <a href="/login"
+                <a href="/"
                     class="px-6 py-3 text-base font-semibold rounded-lg shadow-sm md:text-xl bg-app-white text-app-red">
                     Jetzt
                     mitmachen

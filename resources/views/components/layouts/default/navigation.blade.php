@@ -18,16 +18,16 @@
 
             <div
                 class="items-center justify-end hidden w-full h-16 col-span-2 space-x-10 font-medium text-gray-500 md:flex md:col-span-9">
-                <a href="#use" class="transition-colors cursor-pointer hover:text-app-white">
+                <a href="/#use" class="transition-colors cursor-pointer hover:text-app-white">
                     Wie funktioniert's?
                 </a>
-                <a href="#use" class="transition-colors cursor-pointer hover:text-app-white">
+                <a href="/faq" class="transition-colors cursor-pointer hover:text-app-white">
                     Fragen
                 </a>
                 <a href="#use" class="transition-colors cursor-pointer hover:text-app-white">
                     Kontakt
                 </a>
-                <a href="/login" class="transition-colors cursor-pointer hover:text-app-white">Anmelden</a>
+                <a href="/" class="transition-colors cursor-pointer hover:text-app-white">Anmelden</a>
             </div>
 
             <div class="flex flex-wrap w-full col-span-2 gap-2 font-medium text-gray-500 md:hidden bg-app-black"
@@ -46,7 +46,7 @@
                     class="px-4 py-2 transition-colors rounded-lg cursor-pointer text-app-white/90 bg-app-red">
                     Kontakt
                 </a>
-                <a href="/login"
+                <a href="/"
                     class="px-4 py-2 transition-colors rounded-lg cursor-pointer text-app-white/90 bg-app-red">Anmelden</a>
             </div>
         </div>
