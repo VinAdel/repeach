@@ -1,8 +1,8 @@
 @extends('layouts.default')
 
 @section('BODY')
-    <section class="h-auto px-10 pt-36 bg-app-black md:px-0">
-        <div class="max-w-6xl min-h-screen mx-auto ">
+    <section class="h-auto px-10 pb-20 pt-36 bg-app-black md:px-0">
+        <div class="max-w-6xl mx-auto ">
             <div class="flex items-end justify-between mb-10">
                 <div
                     class="w-full text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-app-red via-app-pink to-app-white">
