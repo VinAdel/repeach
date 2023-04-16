@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('pages.index');
 });
 
+Route::get('/faq', function () {
+    return view('pages.faq');
+});
+
 Route::get('/login', function () {
     return view('pages.login');
 });

@@ -20,7 +20,8 @@
             </div>
             <div class="md:col-span-4 col-span-1 space-y-1.5">
                 <h1 class="block mb-5">Sonstiges</h1>
-                <a class="block text-sm text-gray-500 transition-colors cursor-pointer hover:text-app-white">Fragen</a>
+                <a href="/faq"
+                    class="block text-sm text-gray-500 transition-colors cursor-pointer hover:text-app-white">Fragen</a>
                 <a class="block text-sm text-gray-500 transition-colors cursor-pointer hover:text-app-white">Kontakt</a>
                 <a
                     class="block text-sm text-gray-500 transition-colors cursor-pointer hover:text-app-white">Impressum</a>

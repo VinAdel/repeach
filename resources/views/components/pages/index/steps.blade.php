@@ -9,8 +9,8 @@
             </div>
 
             <div class="col-span-6 text-center md:text-right">
-                <span class="block mb-3 text-4xl font-extrabold text-app-white/90">1. Schritt</span>
-                <span class="block text-2xl font-bold">
+                <span class="block mb-3 text-3xl font-extrabold md:text-4xl text-app-white/90">1. Schritt</span>
+                <span class="block text-lg font-bold md:text-2xl">
                     Suche dir ein Rezept nach deiner Wahl aus. Du hast dabei die Möglichkeit, dein Rezept nach dem
                     Inhalt zu bestimmen.
                 </span>
@@ -24,9 +24,9 @@
         <div
             class="flex flex-col-reverse items-center justify-center grid-cols-1 gap-10 text-center md:grid md:grid-cols-12 md:space-x-28 md:text-left">
             <div class="col-span-5">
-                <span class="block mb-3 text-4xl font-extrabold text-app-white/90">2. Schritt</span>
-                <span class="block text-2xl font-bold">
-                    Finde deinen Supermarkt in der Nähe und kaufe die Zutaten die du für das Rezept benötigst.
+                <span class="block mb-3 text-3xl font-extrabold md:text-4xl text-app-white/90">2. Schritt</span>
+                <span class="block text-lg font-bold md:text-2xl">
+                    Finde deinen Supermarkt in der Nähe und kaufe die Zutaten, die du für das Rezept benötigst.
                 </span>
             </div>
 
@@ -49,9 +49,9 @@
             </div>
 
             <div class="col-span-6 md:text-right">
-                <span class="block mb-3 text-4xl font-extrabold text-app-white/90">3. Schritt</span>
-                <span class="block text-2xl font-bold">
-                    Fang an zu kochen und genieß deine gesunde Mahlzeit.
+                <span class="block mb-3 text-3xl font-extrabold md:text-4xl text-app-white/90">3. Schritt</span>
+                <span class="block text-lg font-bold md:text-2xl">
+                    Fange an zu kochen und genieß deine gesunde Mahlzeit.
                 </span>
             </div>
         </div>

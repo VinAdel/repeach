@@ -8,9 +8,10 @@
     <title>repeach.</title>
 
     @vite('resources/css/app.css')
+    @vite('resources/js/app.js')
 </head>
 
-<body class="subpixel-antialiased font-medium snap-mandatory snap-y">
+<body class="subpixel-antialiased font-medium">
     @include('components.layouts.default.navigation')
     @yield('BODY')
     @include('components.layouts.default.footer')

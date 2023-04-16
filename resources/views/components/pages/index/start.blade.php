@@ -7,7 +7,7 @@
                     überzeugen?
                 </p>
 
-                <p class="text-xl font-bold md:text-2xl text-app-white/70">Schließe dich jetzt 3.000 Leuten an</p>
+                <p class="text-lg font-bold md:text-2xl text-app-white/70">Schließe dich jetzt uns an</p>
             </div>
 
             <div class="col-span-4">
